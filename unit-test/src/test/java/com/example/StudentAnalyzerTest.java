@@ -15,6 +15,7 @@ public class StudentAnalyzerTest {
         assertEquals(2, analyzer.countExcellentStudents(scores));
     }
 
+    
     @Test
     public void testCountExcellentStudents_AllValid() {
         StudentAnalyzer analyzer = new StudentAnalyzer();
