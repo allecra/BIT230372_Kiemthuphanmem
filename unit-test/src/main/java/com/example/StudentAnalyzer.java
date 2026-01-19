@@ -22,6 +22,7 @@ public class StudentAnalyzer {
             }
         }return count;
     }
+    
 
     /**
      * Tính điểm trung bình hợp lệ (từ 0 đến 10)
