@@ -13,6 +13,7 @@ Run tests (requires Maven):
 ```bash
 cd unit-test
 mvn test
+
 ```
 Notes:
 - Methods validate scores by ignoring values < 0 or > 10.
